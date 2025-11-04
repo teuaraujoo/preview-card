@@ -30,10 +30,9 @@ body {
     align-items: center;
     flex-direction: column;
 }
-
 .container {
     display: flex;
-    width: 45%;
+    width: 50rem;
 }
 
 .container h1 {
@@ -140,4 +139,35 @@ body {
 .attribution a {
     color: hsl(228, 45%, 44%); 
     font-family: var(--lowlight-font);
+}
+
+@media screen and (max-width: 768px){
+
+    .attribution {
+        position: absolute;
+        top: 0;
+        margin-top: 4px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: 80%;
+        width: 60%;
+    }
+
+    .sedans {
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .luxury {
+        border-radius: 0px 0px 10px 10px;
+    }
+}
+
+@media screen and (max-width: 420px){
+    .container{
+        height: 80%;
+        width: 70%;
+    }
 }
