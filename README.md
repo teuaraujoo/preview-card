@@ -1,4 +1,4 @@
-# 3-Column Preview Card Component
+# 🚖Preview Card Component
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5b40a80b-3a17-4faf-ad41-8350f4153e29"/>
 
@@ -105,3 +105,4 @@ Este projeto foi desenvolvido como parte de um desafio educacional do Frontend M
 ---
 
 ⭐ **Gostou do projeto? Deixe uma estrela!** ⭐
+
