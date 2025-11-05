@@ -66,9 +66,6 @@ body {
     transform: scale(0.9);
     box-shadow: 0 0 15px rgba(223, 223, 223, 0.603);
     background: transparent;
-}
-
-.container a:hover {
     color: white;
 }
 
