@@ -12,7 +12,7 @@ O desafio consiste em construir um card component que apresenta três opções d
 
 ## 🚀 Demonstração
 
-- **Deploy:** [Ver projeto online](#) *(em breve)*
+- **Deploy:** [Ver projeto online](https://preview-card-jet.vercel.app/)
 - **Repositório:** [GitHub](https://github.com/teuaraujoo/preview-card)
 
 ## 🛠️ Tecnologias Utilizadas
